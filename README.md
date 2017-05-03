@@ -5,10 +5,8 @@ We released the dataset for venue category estimation from micro-videos.
 
 
 # Introduction
-The late 2012 has seen a dramatic shift in the way Internet users digest videos: micro-videos spread rapidly across various online
-flagship platforms, such as Instagram,Snapchat, and Vine. In this repository, we relased a rich set of feature extracted from 
-micro-videos which crawled from Vine. Our dataset is consisting of 270,145 micro-videos distributed in 188 Foursquare
-venue categories.
+Micro-videos spread rapidly across various onlineflagship platforms, such as Instagram,Snapchat, and Vine, since the late of 2012. In this repository, we have relased a rich set of feature extracted from micro-videos which crawled from Vine. 
+Our dataset is consisting of 270,145 micro-videos distributed in 188 Foursquare venue categories.
 
 # Contents
   1 The labels (from 1-188) and their corresponding venue cateogries classes;
