@@ -1,0 +1,188 @@
+1::::Animal Shelter
+2::::College Classroom
+3::::Pet Store
+4::::Doctor's Office
+5::::Cocktail Bar
+6::::Diner
+7::::Dog Run
+8::::Lounge
+9::::Playground
+10::::Hookah Bar
+15::::College Bookstore
+23::::Italian Restaurant
+28::::Winery
+11::::Mall
+12::::Plaza
+13::::Art Museum
+14::::Coworking Space
+16::::Cemetery
+17::::Outdoors & Recreation
+18::::Automotive Shop
+19::::Museum
+20::::Soccer Stadium
+21::::Park
+22::::Chinese Restaurant
+24::::River
+25::::Fair
+26::::Flea Market
+27::::Pier
+29::::Garden
+30::::Community College
+31::::Hockey Arena
+32::::School
+33::::City
+34::::Tech Startup
+35::::Electronics Store
+36::::Military Base
+37::::Breakfast Spot
+38::::Other Great Outdoors
+39::::Coffee Shop
+40::::College Academic Building
+41::::Dive Bar
+42::::Conference
+43::::College Basketball Court
+44::::Theme Park Ride / Attraction
+45::::Strip Club
+46::::Resort
+47::::Farmers Market
+48::::Tattoo Parlor
+49::::Dessert Shop
+50::::Caf¨¦
+51::::Grocery Store
+52::::Campground
+53::::Athletics & Sports
+54::::American Restaurant
+55::::Church
+56::::General Entertainment
+57::::Medical Center
+58::::Light Rail Station
+59::::Theater
+60::::Mountain
+61::::College Library
+62::::Clothing Store
+63::::Island
+64::::Restaurant
+65::::Mexican Restaurant
+66::::Professional & Other Places
+67::::Golf Course
+68::::Toy / Game Store
+72::::Other Nightlife
+73::::Skating Rink
+74::::Pub
+75::::Dance Studio
+76::::Scenic Lookout
+69::::Music Venue
+70::::Convention Center
+71::::Basketball Stadium
+77::::Sandwich Place
+78::::Bar
+79::::Train Station
+80::::Bookstore
+81::::Multiplex
+82::::Ski Area
+83::::Football Stadium
+84::::Martial Arts Dojo
+85::::Science Museum
+86::::Performing Arts Venue
+87::::Donut Shop
+88::::Opera House
+89::::Office
+90::::Residential Building (Apartment / Condo)
+91::::General College & University
+92::::Home (private)
+93::::Japanese Restaurant
+94::::Bakery
+95::::Surf Spot
+96::::Farm
+97::::Skate Park
+98::::Salon / Barbershop
+99::::Trail
+100::::Field
+101::::Gym
+102::::Japanese Restaurant
+103::::Pool
+104::::Moving Target
+105::::Travel & Transport
+106::::Event Space
+107::::Festival
+108::::Bridge
+109::::Lighthouse
+110::::Capitol Building
+111::::Hotel
+112::::Rock Club
+113::::Racetrack
+114::::Train
+115::::Seafood Restaurant
+116::::Sculpture Garden
+117::::Baseball Stadium
+118::::Castle
+119::::Volcano
+120::::Stadium
+121::::Monument / Landmark
+122::::Metro Station
+123::::Design Studio
+124::::Pizza Place
+125::::Comedy Club
+126::::Video Game Store
+127::::Factory
+128::::Government Building
+129::::Student Center
+130::::French Restaurant
+131::::Speakeasy
+132::::Furniture / Home Store
+133::::Movie Theater
+134::::Trade School
+135::::Cuban Restaurant
+136::::Music Festival
+137::::Road
+138::::Department Store
+139::::Wings Joint
+140::::Water Park
+141::::Ice Cream Shop
+142::::Casino
+143::::High School
+144::::Fried Chicken Joint
+145::::Beach Bar
+146::::Jazz Club
+147::::Theme Park
+148::::Beach
+149::::Airport
+150::::Hot Spring
+151::::Art Gallery
+152::::Convention
+153::::Housing Development
+154::::City Hall
+155::::Neighborhood
+156::::College Residence Hall
+157::::Rest Area
+158::::Bus Station
+159::::Arcade
+160::::Gay Bar
+161::::Nightclub
+162::::College & University
+163::::Burger Joint
+164::::BBQ Joint
+165::::Gym / Fitness Center
+166::::College Rec Center
+167::::Aquarium
+168::::College Football Field
+169::::Historic Site
+176::::Other Event
+170::::Lake
+171::::Fast Food Restaurant
+172::::Concert Hall
+173::::University
+174::::Noodle House
+175::::Hospital
+177::::Building
+178::::Harbor / Marina
+179::::Miscellaneous Shop
+180::::Library
+181::::College Stadium
+182::::General Travel
+183::::Bowling Alley
+184::::Zoo
+185::::Airport Terminal
+186::::Tourist Information Center
+187::::Sports Bar
+188::::Beer Garden
