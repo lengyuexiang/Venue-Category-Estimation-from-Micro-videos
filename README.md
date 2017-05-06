@@ -17,13 +17,13 @@ We released the dataset for venue category estimation from micro-videos.
 # Contents
   1) The labels (from 1-188) and their corresponding venue cateogries classes;
   
-  2) alex_net: alexnet_visual_feature (4096 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
+  2) alex_net: alexnet_visual_feature (4096 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:.
   
   3) inception_v3: inceptionV3_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
   
-  4) vgg19: vgg19_visual_feature (512 dim)+ stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim).You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
+  4) vgg19: vgg19_visual_feature (512 dim)+ stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim).You can access this feature set via this link:
   
-  5) resnet50: resnet50_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature via this link:https://pan.baidu.com/s/1c2vh1DI.
+  5) resnet50: resnet50_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature via this link:https://pan.baidu.com/s/1mhS0Pp2.
   
   6) video description:user generated text and hashtags:https://pan.baidu.com/s/1bpnbWAz.
   
