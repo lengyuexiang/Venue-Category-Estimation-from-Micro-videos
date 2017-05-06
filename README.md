@@ -9,23 +9,23 @@ We released the dataset for venue category estimation from micro-videos.
 
 # Tasks
   There are several research tasks can be conducted in the VENUE-188.
-  1 multi-modal venue category estimation
+  1) multi-modal venue category estimation
     
-  2 mono-modal venue categry estimation
+  2) mono-modal venue categry estimation
   
   
 # Contents
-  1 The labels (from 1-188) and their corresponding venue cateogries classes;
+  1) The labels (from 1-188) and their corresponding venue cateogries classes;
   
-  2 alex_net: alexnet_visual_feature (4096 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
+  2) alex_net: alexnet_visual_feature (4096 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
   
-  3 inception_v3: inceptionV3_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
+  3) inception_v3: inceptionV3_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
   
-  4 vgg19: vgg19_visual_feature (512 dim)+ stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim).You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
+  4) vgg19: vgg19_visual_feature (512 dim)+ stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim).You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
   
-  5 resnet50: resnet50_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature via this link::https://pan.baidu.com/s/1c2vh1DI.
+  5) resnet50: resnet50_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature via this link:https://pan.baidu.com/s/1c2vh1DI.
   
-  6 video description:user generated text and hashtags.
+  6) video description:user generated text and hashtags:https://pan.baidu.com/s/1bpnbWAz.
   
 
 # Citation
@@ -39,3 +39,7 @@ Please cite it as...
   year={2016},
 }
 ```
+# License
+   1) All code in this repository is under the MIT license as specified by the LICENSE file.
+   2) The ResNet50 weights are ported from the ones released by Kaiming He under the MIT license.
+   3) The VGG16 and VGG19 weights are ported from the ones released by VGG at Oxford under the Creative Commons Attribution License.
