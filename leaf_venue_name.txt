@@ -8,13 +8,11 @@
 8::::Lounge
 9::::Playground
 10::::Hookah Bar
-15::::College Bookstore
-23::::Italian Restaurant
-28::::Winery
 11::::Mall
 12::::Plaza
 13::::Art Museum
 14::::Coworking Space
+15::::College Bookstore
 16::::Cemetery
 17::::Outdoors & Recreation
 18::::Automotive Shop
@@ -22,10 +20,12 @@
 20::::Soccer Stadium
 21::::Park
 22::::Chinese Restaurant
+23::::Italian Restaurant
 24::::River
 25::::Fair
 26::::Flea Market
 27::::Pier
+28::::Winery
 29::::Garden
 30::::Community College
 31::::Hockey Arena
@@ -47,7 +47,7 @@
 47::::Farmers Market
 48::::Tattoo Parlor
 49::::Dessert Shop
-50::::Caf®¶
+50::::Caf√©
 51::::Grocery Store
 52::::Campground
 53::::Athletics & Sports
@@ -66,14 +66,14 @@
 66::::Professional & Other Places
 67::::Golf Course
 68::::Toy / Game Store
+69::::Music Venue
+70::::Convention Center
+71::::Basketball Stadium
 72::::Other Nightlife
 73::::Skating Rink
 74::::Pub
 75::::Dance Studio
 76::::Scenic Lookout
-69::::Music Venue
-70::::Convention Center
-71::::Basketball Stadium
 77::::Sandwich Place
 78::::Bar
 79::::Train Station
@@ -90,7 +90,7 @@
 90::::Residential Building (Apartment / Condo)
 91::::General College & University
 92::::Home (private)
-93::::Japanese Restaurant
+93::::Sushi Restaurant
 94::::Bakery
 95::::Surf Spot
 96::::Farm
@@ -167,13 +167,13 @@
 167::::Aquarium
 168::::College Football Field
 169::::Historic Site
-176::::Other Event
 170::::Lake
 171::::Fast Food Restaurant
 172::::Concert Hall
 173::::University
 174::::Noodle House
 175::::Hospital
+176::::Other Event
 177::::Building
 178::::Harbor / Marina
 179::::Miscellaneous Shop
