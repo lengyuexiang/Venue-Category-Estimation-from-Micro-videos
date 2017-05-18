@@ -21,7 +21,7 @@ We released the dataset for venue category estimation from micro-videos.
   
   3) inception_v3: inceptionV3_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature set via this link:https://pan.baidu.com/s/1c2vh1DI.
   
-  4) vgg19: vgg19_visual_feature (512 dim)+ stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim).You can access this feature set via this link:
+  4) vgg19: vgg19_visual_feature (512 dim)+ stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim).You can access this feature set via this link:https://pan.baidu.com/s/1kULbYMr
   
   5) resnet50: resnet50_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature via this link:https://pan.baidu.com/s/1mhS0Pp2.
   
