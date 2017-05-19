@@ -1,9 +1,6 @@
 # Venue-Category-Estimation-from-Micro-videos
 We released the dataset for venue category estimation from micro-videos.
 
-# Announcement
-
-
 # Introduction
    Micro-videos spread rapidly across various onlineflagship platforms, such as Instagram,Snapchat, and Vine, since the late of 2012. We aim to label such bite-sized video clips with venue categories.In this repository, we relased a rich set of feature extracted from micro-videos which crawled from Vine. In particular,our dataset is consisting of 270,145 micro-videos distributed in 188 Foursquare venue categories (VENUE-188 for short). We further splited VENUE-188 into training,valid,and testing data in a ratio of 50%, 20%,and 30%, with a number of 132370,56730,and 81044,respectively. Besides,the corresponding videos-ids were also recorded in the dataset.
 
@@ -26,6 +23,8 @@ We released the dataset for venue category estimation from micro-videos.
   5) resnet50: resnet50_visual_feature (2048 dim) + stacked_denosing_autoencode_feature(200 dim) + paragraph_textual_feature(100 dim). You can access this feature via this link:https://pan.baidu.com/s/1mhS0Pp2.
   
   6) video description:user generated text and hashtags:https://pan.baidu.com/s/1bpnbWAz.
+  
+  7) video url:the url of all downloaded videos.https://pan.baidu.com/s/1mioMh4W.
   
 
 # Citation
